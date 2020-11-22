@@ -1,2 +1,2 @@
-export default INCREMENT = 'increment'
-export default DECREMENT = 'decrement'
+export const INCREMENT = 'increment'
+export const DECREMENT = 'decrement'
